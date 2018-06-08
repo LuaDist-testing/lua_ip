@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua_ip"
-version = "0.1-1"
+version = "0.1-2"
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.1-2",
   url = "git://github.com/LuaDist-testing/lua_ip.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/Mashape/lua-ip/archive/0.1-1.tar.gz",
---   dir = "lua-ip-0.1-1"
+--   url = "https://github.com/Mashape/lua-ip/archive/0.1-2.tar.gz",
+--   dir = "lua-ip-0.1-2"
 -- }
 description = {
   summary = "IP utils",
